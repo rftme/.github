@@ -1,13 +1,13 @@
 # Аналог t.me через GitHub Pages
 
-Просто замените [https://t.me/](https://t.me/) на [https://rftme.github.io/](https://rftme.github.io/)
+Просто замените [https://t.me/](https://t.me/) на [https://rutme.github.io/](https://rutme.github.io/)
 
-Должно получиться что-то в стиле [https://rftme.github.io/rkn_tg](https://rftme.github.io/rkn_tg)
+Должно получиться что-то в стиле [https://rutme.github.io/rkn_tg](https://rutme.github.io/rkn_tg)
 
 Алгоритм для быстрого запоминания:
 
-1. https:// **t.me** /rkn_tgㅤ →ㅤ https:// **rftme** /rkn_tg <br>
-2. https:// **rftme** /rkn_tgㅤ → ㅤhttps:// **rftme.github.io** /rkn_tg
+1. https:// **t.me** /rkn_tgㅤ →ㅤ https:// **rutme** /rkn_tg <br>
+2. https:// **rutme** /rkn_tgㅤ → ㅤhttps:// **rutme.github.io** /rkn_tg
 
 ## Преимущества
 
