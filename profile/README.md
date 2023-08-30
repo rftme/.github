@@ -2,7 +2,7 @@
 
 Просто замените [https://t.me/](https://t.me/) на [https://rutme.github.io/](https://rutme.github.io/)
 
-Должно получиться что-то в стиле [https://rutme.github.io/rkn_tg](https://rutme.github.io/rkn_tg)
+Из [https://t.me/rkn_tg](https://t.me/rkn_tg) должно получиться что-то в стиле [https://rutme.github.io/rkn_tg](https://rutme.github.io/rkn_tg)
 
 Алгоритм для быстрого запоминания:
 
